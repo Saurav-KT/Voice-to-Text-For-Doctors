@@ -30,7 +30,7 @@ Generate organized medical records automatically
  
  Handles Real-World Audio for example Background noise, Different accents, Multiple speakers
  
- Multilingual support English → English, Hindi → English (translation), French → French
+ Multilingual support English → English, Hindi → English (translation), French → French etc
  
  NLP-based structuring of medical data
  
