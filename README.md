@@ -27,10 +27,16 @@ Generate organized medical records automatically
 ## Key Features
 
  Voice-to-text transcription of doctor–patient conversations
+ 
  Handles Real-World Audio for example Background noise, Different accents, Multiple speakers
+ 
  Multilingual support English → English, Hindi → English (translation), French → French
+ 
  NLP-based structuring of medical data
+ 
  Automatic generation of clinical notes
+ 
  FastAPI backend for scalable API services
+ 
  End-to-end automation from speech to structured records
 
