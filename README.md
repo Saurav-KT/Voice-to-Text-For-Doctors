@@ -40,3 +40,6 @@ Generate organized medical records automatically
  
  End-to-end automation from speech to structured records
 
+Architecture Diagram(DRAFT)
+![voice-to-text.jpg](resources/voice-to-text.jpg)
+
